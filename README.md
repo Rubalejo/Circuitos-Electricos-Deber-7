@@ -8,7 +8,15 @@
 
 **Objetivo General**
 
+En los dos siguientes capítulos del libro de Floyd Capítulo 13 y 14 estaremos conociendo un poco más acerca los Inductores y Transformadores.
+
 **Objetivo Especifico**
+
+Estudiar de manera detallada su construcción y sus características básicas de un inductor.
+
+Comprender los inductores dispuestos en serie y en paralelo.
+
+Identificar como los transformadores incrementan y disminuyen el voltaje.
 
 **2. MARCO TEORICO**
 
@@ -32,11 +40,25 @@
 
 **3. RESOLUCIÓN DE EJERCICIOS**
 
+![image](https://user-images.githubusercontent.com/105680588/185535435-5232db66-82b4-4184-8c1e-e857067f56f9.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185535474-4380f400-68a4-48ed-afc9-8c0db52c07db.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185535572-660a49a0-d31a-44b9-889c-25b8bb0c36f0.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185535614-45cef0fa-ee31-42a2-a1ac-888ed424e999.png)
+
 **4. VIDEO**
 
 **5. CONCLUSIONES**
 
+Con la ayuda de los conceptos de la clase dada por el ingeniero y ejercicios de demostración propuestos en el libro de Floyd se pudo realizar de una mejor manera y comprender a su vez los ejercicios propuestos a final de cada capítulo.
+
+El análisis que se obtuvo al final de los capítulos fue que los inductores tienen exactamente las propiedades opuestas. Si lo conecta directamente a una fuente, no habrá chispa porque la corriente se acumula lentamente, lo que depende de la inductancia del inductor.
+
 **6. BIBLIOGRAFÍA**
+
+Floyd, T. (2007). Principios de circuitos eléctricos. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
 **RUBRICAS**
 
