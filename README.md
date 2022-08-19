@@ -40,6 +40,8 @@ Identificar como los transformadores incrementan y disminuyen el voltaje.
 
 **3. RESOLUCIÓN DE EJERCICIOS**
 
+**CAPITULO 13**
+
 ![image](https://user-images.githubusercontent.com/105680588/185535435-5232db66-82b4-4184-8c1e-e857067f56f9.png)
 
 ![image](https://user-images.githubusercontent.com/105680588/185535474-4380f400-68a4-48ed-afc9-8c0db52c07db.png)
@@ -48,7 +50,43 @@ Identificar como los transformadores incrementan y disminuyen el voltaje.
 
 ![image](https://user-images.githubusercontent.com/105680588/185535614-45cef0fa-ee31-42a2-a1ac-888ed424e999.png)
 
+![image](https://user-images.githubusercontent.com/105680588/185544622-4adedcde-92d4-4594-ab8d-aaf82bb05381.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185544649-5b50ebd2-44c4-4397-a179-cd29643df479.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185544704-0ec4780b-4a1c-4d79-93a7-31ce297829f6.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185544760-a7da1513-471e-4316-90b8-73784214e9b1.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185544783-19b54c12-ff8d-4c8a-9a7d-431fa351c9bf.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185544811-808931ce-8d39-4974-82d9-7559a20c7223.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185544836-66c81cc0-47e1-437e-b574-cee5021e21ee.png)
+
+**CAPITULO 14**
+
+![image](https://user-images.githubusercontent.com/105680588/185544966-ba2aca42-e00b-4f03-ab45-7a583753b572.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185544989-bc84a15c-6275-4183-b449-056b7febd6e3.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185545012-474dd0a5-c401-44c7-a78b-cda50c0b8f39.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185545036-0b644448-6b3c-4ade-9e2c-8a95d7d555ff.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185545068-65491701-eb1a-484f-a8ee-101dab356522.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185545093-edb323a2-9d94-4158-b2c0-a92dce9ad803.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185545123-11b4d616-9afa-478e-bc75-68be8ca2a27d.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185545148-8ed59e3e-f6dd-457b-838c-e49952f133e2.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185545177-ec4d0b23-88f4-48cc-b0fc-832f93ade595.png)
+
 **4. VIDEO**
+
+https://www.youtube.com/watch?v=CrUORHfP7iY&ab_channel=RubenBustos
 
 **5. CONCLUSIONES**
 
